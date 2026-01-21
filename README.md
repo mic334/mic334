@@ -24,11 +24,12 @@
 
 <!---
 
-<!## 📌 Projects
-<!Take a look at the **pinned repositories below** 👇  
-<!They showcase the projects that best represent my work.
+## 📌 Projects
+Take a look at the **pinned repositories below** 👇  
+They showcase the projects that best represent my work.
 
-<!---
+-->
+---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mic334&show_icons=true&theme=default)
