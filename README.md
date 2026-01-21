@@ -1,4 +1,4 @@
-# 👋 Hi, I'm mic334 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
+# Hi, I'm mic334 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 
 🧪 **Computational Chemist** with a strong interest in molecular modeling, simulations, and computational methods applied to chemistry and materials science.  
 💻 I enjoy combining **chemistry, mathematics, and programming** to solve complex scientific problems.  
@@ -41,4 +41,10 @@ They showcase the projects that best represent my work.
 ---
 
 ⭐ Feel free to reach out if you want to collaborate or have questions!
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-4D4DFF?style=for-the-badge&logo=fortran&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
