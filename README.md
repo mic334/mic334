@@ -47,4 +47,6 @@ They showcase the projects that best represent my work.
 ![Fortran](https://img.shields.io/badge/Fortran-4D4DFF?style=for-the-badge&logo=fortran&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HPC](https://img.shields.io/badge/Supercomputer-6C63FF?style=for-the-badge&logo=linux&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-FF4500?style=for-the-badge&logo=linux&logoColor=white)
 
