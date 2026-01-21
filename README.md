@@ -1,6 +1,4 @@
-# 👋 Hi, I'm mic334
-
-![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 👋 Hi, I'm mic334 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 
 🧪 **Computational Chemist** with a strong interest in molecular modeling, simulations, and computational methods applied to chemistry and materials science.  
 💻 I enjoy combining **chemistry, mathematics, and programming** to solve complex scientific problems.  
