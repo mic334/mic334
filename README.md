@@ -19,7 +19,7 @@
 
 ## 🧠 Skills
 - **Languages**: Python, Bash, Fortran (optionally C/C++)
-- **Tools**: Git, Linux, Jupyter, HPC 
+- **Tools**: Git, Linux, Jupyter, HPC, Docker
 - **Fields**: theoretical chemistry, simulations, data analysis
 
 <!---
