@@ -1,52 +1,94 @@
-# Hi, I'm mic334 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
+# Hi, I'm Michele 👋
 
-🧪 **Computational Chemist** with a strong interest in molecular modeling, simulations, and computational methods applied to chemistry and materials science.  
-💻 I enjoy combining **chemistry, mathematics, and programming** to solve complex scientific problems.  
-🚀 Always curious and motivated to explore new techniques and approaches.
+<p align="center">
+  <img src="https://img.shields.io/badge/Computational%20Chemistry-Scientific%20Computing-blue" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-green" />
+</p>
+
+I am a Computational Chemist and Scientific Programmer, currently expanding my profile toward Data Science, Machine Learning and cloud-based analytical workflows.
+
+My experience includes Python programming, numerical simulations, workflow automation, algorithm development and scientific data analysis. I enjoy building reproducible tools to analyze complex datasets and solve computational problems.
 
 ---
 
-## 🔬 What I do
-- Computational chemistry
-- Molecular modeling
-- Simulations (QM / MM / MD)
-- Scientific data analysis
+## 🧠 What I do
+
+- Scientific programming in Python and Fortran
+- Data analysis with NumPy, Pandas and Jupyter
 - Automation of computational workflows
+- Numerical simulations and computational modeling
+- Algorithm development for scientific applications
+- Computational chemistry and molecular modeling
 
 ---
 
-## 🧠 Skills
-- **Languages**: Python, Bash, Fortran (optionally C/C++)
-- **Tools**: Git, Linux, Jupyter, HPC, Docker
-- **Fields**: theoretical chemistry, simulations, data analysis
+## 🚀 Current focus
 
-<!---
+I am currently improving my skills in:
 
-## 📌 Projects
-Take a look at the **pinned repositories below** 👇  
-They showcase the projects that best represent my work.
+- Machine Learning with scikit-learn
+- SQL and relational databases
+- AWS and SageMaker
+- MLOps concepts
+- PySpark for distributed data processing
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🔬 Scientific Computing
+
+- HPC and SLURM
+- Gaussian16, ORCA, GAMESS
+- Molecular modeling and quantum chemistry
+- DFT simulation analysis
+- Workflow automation for computational chemistry
+
+---
+
+## 🎯 Professional interests
+
+I am interested in roles such as:
+
+- Data Scientist
+- Junior Machine Learning Engineer
+- Scientific Programmer
+- Research Software Engineer
+- Computational Scientist
+- Scientific Data Analyst
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mic334&show_icons=true&theme=default)
--->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mic334&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic334&layout=compact" />
+</p>
 
 ---
 
 ## 📫 Contact
-📧 **Email**: `micheleorza44@gmail.com`  
-💼 **GitHub**: https://github.com/mic334
 
----
-
-⭐ Feel free to reach out if you want to collaborate or have questions!
-
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-4D4DFF?style=for-the-badge&logo=fortran&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HPC](https://img.shields.io/badge/Supercomputer-6C63FF?style=for-the-badge&logo=linux&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-FF4500?style=for-the-badge&logo=linux&logoColor=white)
-
+- Email: micheleorza44@gmail.com
+- LinkedIn: michele-orza-b5a381226
+- GitHub: https://github.com/mic334
