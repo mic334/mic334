@@ -75,18 +75,6 @@ I am interested in roles such as:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mic334&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic334&layout=compact" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Email: micheleorza44@gmail.com
